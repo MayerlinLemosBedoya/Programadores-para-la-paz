@@ -1,0 +1,11 @@
+
+Algoritmo para realizar una búsqueda en Internet 
+
+1. Elegir el navegador o medio de búsqueda que se va a utilizar.
+2. Buscar la información o noticia que se desea consultar.
+3. Revisar la fuente de donde proviene, observando la fecha de publicación, el dominio de la página web, el autor y el tipo de sitio (blog, artículo científico, página oficial, etc.).
+4. Leer cuidadosamente la información y verificar si presenta errores de ortografía, títulos engañosos o datos poco claros.
+5. Comparar la misma información en otras fuentes confiables para confirmar que también esté publicada allí.
+Si la información coincide en varias fuentes confiables, se considera verificada; si no coincide, se debe buscar otra fuente más segura.
+6. Guardar la información importante encontrada.
+7.Compartir únicamente la información verificada con otras personas de manera responsable.
