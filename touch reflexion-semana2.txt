@@ -1,0 +1,1 @@
+Es importante que un desarrollador sepa usar la terminal porque le permite moverse y organizar los archivos de un proyecto de forma más rápida y directa. Además, herramientas como Git o Node.js funcionan desde la terminal y nos ayuda  a automatizar tareas y a entender mejor cómo está estructurado el proyecto. En general, hace el trabajo más eficiente y profesional.
