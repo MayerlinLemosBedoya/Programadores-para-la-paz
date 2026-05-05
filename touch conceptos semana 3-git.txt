@@ -1,0 +1,10 @@
+Es el lugar donde se almacena un proyecto y todos sus archivos, junto con su historial de cambios.
+Permite organizar y gestionar el desarrollo del software de forma estructurada usando herramientas como Git.
+
+Commit
+Es una acción que guarda los cambios realizados en el proyecto como una versión nueva.
+Cada commit incluye un mensaje que describe lo que se modificó, permitiendo llevar un seguimiento claro.
+
+Push
+Es el proceso de enviar los cambios guardados en el repositorio local hacia un repositorio remoto.
+Esto permite compartir el trabajo con otras personas o respaldarlo en plataformas como GitHub.
