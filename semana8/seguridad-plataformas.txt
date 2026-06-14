@@ -1,0 +1,5 @@
+1. Proteger contraseñas
+2. No compartir credenciales
+3. Mantener software actualizado
+4. No compartir datos sensibles
+5.No compartir direcciones personales 
