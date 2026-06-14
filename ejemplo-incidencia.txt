@@ -1,0 +1,4 @@
+{
+"tipo": "Alumbrado público",
+"descripcion": "La lámpara de la calle principal lleva varios días apagada y genera inseguridad en la zona."
+}

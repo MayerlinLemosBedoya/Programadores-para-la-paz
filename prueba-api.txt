@@ -1,0 +1,17 @@
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Se realizó una prueba de la ruta POST `/registro` utilizando Thunder Client. Se envió un objeto JSON con los campos `nombre` y `mensaje`. Gracias al middleware `express.json()`, el servidor pudo leer la información enviada en `req.body`.
+
+Al recibir los datos, la aplicación extrajo los valores de `nombre` y `mensaje` y respondió con un nuevo objeto JSON confirmando que los datos fueron recibidos correctamente. La respuesta obtenida fue:
+
+{
+"estado": "Datos recibidos",
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+Esta prueba demuestra el funcionamiento de `express.json()` y el uso de `req.body` para procesar información enviada por el cliente mediante una petición POST.
