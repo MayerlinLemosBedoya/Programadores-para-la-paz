@@ -1,0 +1,26 @@
+
+POST
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+GET
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+
+
+En esta prueba utilicé los métodos POST y GET. El método POST sirve para guardar información nueva en el sistema. En este caso, envié un reporte con el tipo de incidencia y su descripción, y el servidor lo registró correctamente.
+
+Por otro lado, el método GET sirve para consultar o ver la información que ya está almacenada. Cuando realicé la petición GET, el servidor me mostró el reporte que había guardado anteriormente. En pocas palabras, POST guarda información y GET consulta la información que ya existe.

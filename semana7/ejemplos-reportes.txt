@@ -1,0 +1,33 @@
+POST
+
+
+{
+  "tipo": "Aseo",
+  "descripcion": "Acumulación de basura en una zona residencial."
+}
+
+
+Resultado
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 2,
+    "tipo": "Aseo",
+    "descripcion": "Acumulación de basura en una zona residencial."
+  }
+}
+POST
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público en el parque principal."
+}
+
+Resultado
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 3,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público en el parque principal."
+  }
+}
